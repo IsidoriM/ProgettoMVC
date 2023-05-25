@@ -167,8 +167,8 @@ C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin
 C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\it\System.Web.WebPages.resources.dll
 C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\it\System.Web.WebPages.Deployment.resources.dll
 C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\it\System.Web.WebPages.Razor.resources.dll
-C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\obj\Debug\WebCorso.csprojAssemblyReference.cache
 C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\obj\Debug\WebCorso.csproj.CoreCompileInputs.cache
 C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\obj\Debug\WebCorso.csproj.CopyComplete
 C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\obj\Debug\WebCorso.dll
 C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\obj\Debug\WebCorso.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\obj\Debug\WebCorso.csproj.AssemblyReference.cache
