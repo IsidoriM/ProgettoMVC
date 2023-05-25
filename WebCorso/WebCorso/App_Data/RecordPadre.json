@@ -1,47 +1,49 @@
-grandRecords: [
+{
+  "grandRecords": [
     {
-        id: 1,
-        name: "(A)",
-        records: [
+      "id": 1,
+      "name": "(A)",
+      "records": [
+        {
+          "id": 2,
+          "name": "(A)A",
+          "childRecords": [
             {
-                id: 2,
-                name: "(A)A",
-                childRecords: [
-                    {
-                        id: 3,
-                        name: "(A)Aa",
-                    },
-                    {
-                        id: 0,
-                        name: "(A)b",
-                    },
-                ]
+              "id": 3,
+              "name": "(A)Aa"
             },
             {
-                id: 0,
-                name: "(A)B",
-                childRecords: [
-                    {
-                        id: 0,
-                        name: "(A)Ba",
-                    },
-                    {
-                        id: 0,
-                        name: "(A)Bb",
-                    },
-                ]
-            }        
-        ]        
+              "id": 0,
+              "name": "(A)b"
+            }
+          ]
+        },
+        {
+          "id": 0,
+          "name": "(A)B",
+          "childRecords": [
+            {
+              "id": 0,
+              "name": "(A)Ba"
+            },
+            {
+              "id": 0,
+              "name": "(A)Bb"
+            }
+          ]
+        }
+      ]
     },
     {
-        id: 0,
-        name: "(B)",
-        records: [
-            {
-                id: 0,
-                name: "(B)A",
-                childRecords: []
-            }
-        ]
+      "id": 0,
+      "name": "(B)",
+      "records": [
+        {
+          "id": 0,
+          "name": "(B)A",
+          "childRecords": []
+        }
+      ]
     }
-]
+  ]
+}
