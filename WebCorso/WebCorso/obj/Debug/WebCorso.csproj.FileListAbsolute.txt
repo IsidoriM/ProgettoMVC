@@ -1,0 +1,174 @@
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\WebCorso.dll.config
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\WebCorso.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\WebCorso.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\csc.exe
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\csc.exe.config
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\csc.rsp
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\csi.exe
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\csi.exe.config
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\csi.rsp
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\System.AppContext.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\System.Console.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\System.IO.Compression.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\System.Security.Claims.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\System.ValueTuple.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\vbc.exe
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\vbc.exe.config
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\vbc.rsp
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\VBCSCompiler.exe
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\Antlr3.Runtime.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\Newtonsoft.Json.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\System.Web.Helpers.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\System.Web.Mvc.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\System.Web.Optimization.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\System.Web.Razor.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\System.Web.WebPages.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\System.Web.WebPages.Razor.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\WebGrease.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\System.Web.Helpers.xml
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\System.Web.Mvc.xml
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\System.Web.Optimization.xml
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\System.Web.Razor.xml
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\System.Web.WebPages.xml
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\System.Web.WebPages.Razor.xml
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\Newtonsoft.Json.xml
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\Antlr3.Runtime.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\it\System.Web.Helpers.resources.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\it\System.Web.Mvc.resources.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\it\System.Web.Optimization.resources.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\it\System.Web.Razor.resources.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\it\System.Web.WebPages.resources.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\it\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\it\System.Web.WebPages.Razor.resources.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\obj\Debug\WebCorso.csprojAssemblyReference.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\obj\Debug\WebCorso.csproj.CoreCompileInputs.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\obj\Debug\WebCorso.csproj.CopyComplete
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\obj\Debug\WebCorso.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\obj\Debug\WebCorso.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\BLL.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\OCM.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\BLL.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\WebCorso\bin\OCM.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\WebCorso.dll.config
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\WebCorso.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\WebCorso.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\csc.exe
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\csc.exe.config
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\csc.rsp
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\csi.exe
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\csi.exe.config
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\csi.rsp
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\System.AppContext.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\System.Console.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\System.IO.Compression.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\System.Security.Claims.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\System.ValueTuple.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\vbc.exe
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\vbc.exe.config
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\vbc.rsp
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\VBCSCompiler.exe
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\Antlr3.Runtime.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\BLL.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\Newtonsoft.Json.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\OCM.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\System.Web.Helpers.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\System.Web.Mvc.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\System.Web.Optimization.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\System.Web.Razor.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\System.Web.WebPages.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\System.Web.WebPages.Razor.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\WebGrease.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\BLL.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\OCM.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\System.Web.Helpers.xml
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\System.Web.Mvc.xml
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\System.Web.Optimization.xml
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\System.Web.Razor.xml
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\System.Web.WebPages.xml
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\System.Web.WebPages.Razor.xml
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\Newtonsoft.Json.xml
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\Antlr3.Runtime.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\it\System.Web.Helpers.resources.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\it\System.Web.Mvc.resources.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\it\System.Web.Optimization.resources.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\it\System.Web.Razor.resources.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\it\System.Web.WebPages.resources.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\it\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\bin\it\System.Web.WebPages.Razor.resources.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\obj\Debug\WebCorso.csprojAssemblyReference.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\obj\Debug\WebCorso.csproj.CoreCompileInputs.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\obj\Debug\WebCorso.csproj.CopyComplete
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\obj\Debug\WebCorso.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\WebCorso\obj\Debug\WebCorso.pdb

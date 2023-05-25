@@ -1,0 +1,22 @@
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\BLL\bin\Debug\netstandard1.4\BLL.deps.json
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\BLL\bin\Debug\netstandard1.4\BLL.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\BLL\bin\Debug\netstandard1.4\BLL.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\BLL\bin\Debug\netstandard1.4\OCM.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\BLL\bin\Debug\netstandard1.4\OCM.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\BLL\obj\Debug\netstandard1.4\BLL.csprojAssemblyReference.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\BLL\obj\Debug\netstandard1.4\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\BLL\obj\Debug\netstandard1.4\BLL.AssemblyInfo.cs
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\BLL\obj\Debug\netstandard1.4\BLL.csproj.CopyComplete
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\BLL\obj\Debug\netstandard1.4\BLL.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Corso MVC\WebCorso\BLL\obj\Debug\netstandard1.4\BLL.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\BLL\bin\Debug\netstandard1.4\BLL.deps.json
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\BLL\bin\Debug\netstandard1.4\BLL.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\BLL\bin\Debug\netstandard1.4\BLL.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\BLL\bin\Debug\netstandard1.4\OCM.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\BLL\bin\Debug\netstandard1.4\OCM.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\BLL\obj\Debug\netstandard1.4\BLL.csprojAssemblyReference.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\BLL\obj\Debug\netstandard1.4\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\BLL\obj\Debug\netstandard1.4\BLL.AssemblyInfo.cs
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\BLL\obj\Debug\netstandard1.4\BLL.csproj.CopyComplete
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\BLL\obj\Debug\netstandard1.4\BLL.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\BLL\obj\Debug\netstandard1.4\BLL.pdb
