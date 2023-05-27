@@ -3,21 +3,25 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-using BLL;
-using OCM.DatiGraph;
+using ObjectGraphs.Models;
+using ObjectGraphs;
 
 namespace WebCorso.Controllers
 {
     public class GraficoController : Controller
     {
 
-        Graph grafico = new Graph(); 
-        // GET: Grafico
+        Repository grafico = new Repository();
+          
         public ActionResult Index()
         {
-            List<GrandRecord> graficoPieno = new List<GrandRecord>();
-            graficoPieno = grafico.ImpostaRecord();
-            return View(graficoPieno);
+            
+            Repository repositoryBll = new Repository();
+            var graficoPieno = grafico.ImpostaRecord();
+            var datatbl = Repository.SaveGrandRecords(graficoPieno);
+            
+              
+                return View(graficoPieno);
         }
     }
 }
