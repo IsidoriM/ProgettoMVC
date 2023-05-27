@@ -1,0 +1,12 @@
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\ObjectGraphs\bin\Debug\ObjectGraphs.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\ObjectGraphs\bin\Debug\ObjectGraphs.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\ObjectGraphs\obj\Debug\ObjectGraphs.csproj.AssemblyReference.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\ObjectGraphs\obj\Debug\ObjectGraphs.csproj.CoreCompileInputs.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\ObjectGraphs\obj\Debug\ObjectGraphs.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\ObjectGraphs\obj\Debug\ObjectGraphs.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\ObjectGraphs\bin\Debug\ObjectGraphs.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\ObjectGraphs\bin\Debug\ObjectGraphs.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\ObjectGraphs\obj\Debug\ObjectGraphs.csproj.AssemblyReference.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\ObjectGraphs\obj\Debug\ObjectGraphs.csproj.CoreCompileInputs.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\ObjectGraphs\obj\Debug\ObjectGraphs.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\ObjectGraphs\obj\Debug\ObjectGraphs.pdb

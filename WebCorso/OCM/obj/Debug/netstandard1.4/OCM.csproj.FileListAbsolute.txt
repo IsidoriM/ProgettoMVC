@@ -13,6 +13,4 @@ C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\OCM\obj\Debu
 C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\OCM\obj\Debug\netstandard1.4\OCM.AssemblyInfo.cs
 C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\OCM\obj\Debug\netstandard1.4\OCM.dll
 C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\OCM\obj\Debug\netstandard1.4\OCM.pdb
-C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\OCM\obj\Debug\netstandard1.4\OCM.csproj.AssemblyReference.cache
-C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\OCM\obj\Debug\netstandard1.4\OCM.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\OCM\obj\Debug\netstandard1.4\OCM.AssemblyInfoInputs.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\OCM\obj\Debug\netstandard1.4\OCM.csprojAssemblyReference.cache

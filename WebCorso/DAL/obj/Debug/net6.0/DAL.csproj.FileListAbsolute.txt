@@ -1,0 +1,15 @@
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\DAL\bin\Debug\net6.0\OCM.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\DAL\bin\Debug\net6.0\OCM.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\Massimiliano Isidori\Desktop\Studi\MVC\Repository\WebCorso\DAL\obj\Debug\net6.0\ref\DAL.dll
